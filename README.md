@@ -1,2 +1,2 @@
 # test2
-A guide for boo
+guide for boo
